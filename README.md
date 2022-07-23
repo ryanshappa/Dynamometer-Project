@@ -6,5 +6,5 @@ All wiring was done from breadboards and code was implemented through multuple A
 # IMGS
 Check imgs folder for screenshots of conceptual design, wiring diagram, and 3D model created of dynamometer
 
-# Results
-The Results folder contains multiple tests run for data collection with plots created in Excel
+# Report
+Be sure to check out the report that was created explaining the project in more detail and also showing the results of the project!
